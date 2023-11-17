@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repo contains a script to modify main references to special lexical cross-references that contain sense and reference order information.
+This repo contains a script to process a SFM file. It will modify main references to special lexical cross-references that contain sense and reference order information.
 
 FLEx (as of version 9.1) has a bug in the import process when a subentry is imported:
  * the first reference to a main entry is converted to a link back to that main entry
